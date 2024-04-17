@@ -1,0 +1,18 @@
+package:
+  dependencies:
+  - aff
+  - aff-promise
+  - arrays
+  - console
+  - effect
+  - literals
+  - maybe
+  - newtype
+  - nullable
+  - prelude
+  - untagged-union
+  name: my-project
+workspace:
+  extra_packages: {}
+  package_set:
+    url: https://raw.githubusercontent.com/purescript/package-sets/psc-0.15.4-20221013/packages.json
